@@ -1,0 +1,24 @@
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 23px;
+
+}
+nav{
+    background-color: blueviolet;
+    padding: 5px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.butt {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.butt:hover{
+    color: black;
+}
